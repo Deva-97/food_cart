@@ -1,4 +1,4 @@
-# 🍔 Flutter Food Ordering App
+# 🍔 Food Ordering App
 
 A fully functional Ui food ordering application built using Flutter with **MVVM architecture** and **Provider** for state management. This app replicates a professional UI from a Figma design and includes all core features of a food delivery platform.
 
